@@ -5,3 +5,4 @@ elif temp in range(15,25):
     print("Given temperature is warm")
 else :
     print("Given temperature is hot")        
+
